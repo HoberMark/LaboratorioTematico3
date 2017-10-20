@@ -137,3 +137,5 @@ INSERT INTO `usuario` VALUES ('aguevara',0,'123',2),('alexgallo',1,'123',1),('br
 /*!40000 ALTER TABLE `usuario` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+Mario es Gay :)
